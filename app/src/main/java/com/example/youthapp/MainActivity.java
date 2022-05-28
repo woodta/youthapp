@@ -16,7 +16,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.youthapp.databinding.ActivityMainBinding;
 
-// 2022 05 28  테스트 2
+// 2022 05 28  테스트 2 08:58
 public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration mAppBarConfiguration;
